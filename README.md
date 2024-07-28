@@ -1,1 +1,3 @@
-# sculptify
+# Sculptify
+
+A Spotify Playlist Editor
